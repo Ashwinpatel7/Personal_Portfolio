@@ -57,37 +57,37 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Ashwinpatel7"
+                  href="https://github.com/Ashwinpatel7" // Check GitHub username
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <AiFillGithub />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/AshwinPatel"
+                  href="https://twitter.com/AshwinPatel" // Check Twitter handle
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <AiOutlineTwitter />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/ashwin-patel-936964228/"
+                  href="https://www.linkedin.com/in/ashwin-patel-936964228/" // Ensure LinkedIn profile link is correct
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons"
+                  className="icon-colour home-social-icons"
                 >
                   <FaLinkedinIn />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/ashwinpatel"
+                  href="https://www.instagram.com/ashwinpatel" // Check Instagram username
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -102,4 +102,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;
