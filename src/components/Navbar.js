@@ -108,7 +108,7 @@ function NavBar() {
             {/* Updated GitHub Repository */}
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/Ashwinpatel7/Portfolio" // Replace with your GitHub repo
+                href="https://github.com/Ashwinpatel7/Personal_Portfolio" // Replace with your GitHub repo
                 target="_blank"
                 className="fork-btn-inner"
               >

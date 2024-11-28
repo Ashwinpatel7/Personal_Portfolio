@@ -67,7 +67,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/AshwinPatel" // Check Twitter handle
+                  href="https://x.com/AshwinP51434622" // Check Twitter handle
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/ashwinpatel" // Check Instagram username
+                  href="https://www.instagram.com/ashwin_patel2029/" // Check Instagram username
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
