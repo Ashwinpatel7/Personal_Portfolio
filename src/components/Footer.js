@@ -6,6 +6,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { MdEmail } from "react-icons/md"; // Import email icon
 
 function Footer() {
   let date = new Date();
@@ -54,16 +55,17 @@ function Footer() {
                 <FaLinkedinIn />
               </a>
             </li>
-            <li className="social-icons">
-              <a
-                href="https://www.instagram.com/ashwin_patel2029/" // Update Instagram link
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiFillInstagram />
-              </a>
-            </li>
+            
+  <li className="social-icons">
+    <a
+      href="mailto:your.email@example.com"  // Replace with your actual email address
+      style={{ color: "white" }}
+      target="_blank" 
+      rel="noopener noreferrer"
+    >
+      <MdEmail />
+    </a>
+  </li>
           </ul>
         </Col>
       </Row>

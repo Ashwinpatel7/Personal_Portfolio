@@ -4,7 +4,7 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-
+import NameType from "./Nametype";
 function Home() {
   return (
     <section>
@@ -22,6 +22,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
+            
                 <strong className="main-name"> ASHWIN PATEL</strong>
               </h1>
 
