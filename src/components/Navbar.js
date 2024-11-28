@@ -97,7 +97,7 @@ function NavBar() {
             {/* Updated Blog Link */}
             <Nav.Item>
               <Nav.Link
-                href="https://ashwinblogs.vercel.app/" // Replace with your blog URL
+                href="https://portfolio.ashwinpatel.site/" // Replace with your blog URL
                 target="_blank"
                 rel="noreferrer"
               >

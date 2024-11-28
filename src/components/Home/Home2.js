@@ -2,6 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
+import { MdEmail } from "react-icons/md";  // Add this import
+
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -86,15 +88,15 @@ function Home2() {
                 </a>
               </li>
               <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/ashwin_patel2029/" // Check Instagram username
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li>
+  <a
+    href="mailto:your.email@example.com"  // Replace with your actual email address
+    target="_blank"
+    rel="noreferrer"
+    className="icon-colour home-social-icons"
+  >
+    <MdEmail />
+  </a>
+</li>
             </ul>
           </Col>
         </Row>
