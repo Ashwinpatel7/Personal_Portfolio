@@ -7,7 +7,7 @@
   <a href="https://portfolio.ashwinpatel.site/" target="_blank">ashwinpatel.portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src=".src\Assets\Projects\portfolio.png" />
+  <img alt="Demo" src="./src/Assets/Projects/portfolio.png" />
 </div>
 
 <br/>
