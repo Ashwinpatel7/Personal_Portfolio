@@ -61,7 +61,7 @@ function Projects() {
                 developers. Features include branching, merging, and conflict resolution, allowing teams to manage 
                 their codebase effectively. Built with Node.js, Express.js, and MongoDB for backend services, and 
                 React.js for a clean and interactive interface.`}
-              ghLink="https://github.com/ashwinpatel7/VersionFlow" // Replace with actual link
+              ghLink="https://github.com/Ashwinpatel7/VersionFlow" // Replace with actual link
               demoLink="https://landing-page-ashwin.netlify.app/" // Replace with actual demo link
             />
           </Col>
@@ -75,7 +75,7 @@ function Projects() {
               description={`A peer-to-peer file-sharing platform that simplifies the process of sharing large files
                 over distributed networks. Developed using Python and Flask for backend, with WebTorrent integration
                 for seamless torrent management. Ensures fast and secure file sharing with an intuitive user interface.`}
-              ghLink="https://github.com/ashwinpatel7/TorrentConnect" // Replace with actual link
+              ghLink="https://github.com/Ashwinpatel7/Torrent" // Replace with actual link
               demoLink="https://landing-page-ashwin.netlify.app/" // Replace with actual demo link
             />
           </Col>
@@ -89,7 +89,7 @@ function Projects() {
               description={`An AI-powered chatbot designed to provide instant support and assistance. Built with 
                 Python and TensorFlow, integrated with GPT APIs for intelligent conversational capabilities. Ideal for 
                 customer support, ChatSphere offers natural language understanding and response generation.`}
-              ghLink="https://github.com/ashwinpatel7/ChatSphere" // Replace with actual link
+              ghLink="https://github.com/Ashwinpatel7/ChatSphere" // Replace with actual link
               demoLink="https://landing-page-ashwin.netlify.app/" // Replace with actual demo link
             />
           </Col>
@@ -103,7 +103,7 @@ function Projects() {
               description={`A team collaboration platform inspired by Slack, offering real-time messaging, file 
                 sharing, and project management tools. Developed using React.js, Node.js, and MongoDB for a 
                 full-stack implementation. Features include private channels, task boards, and customizable user settings.`}
-              ghLink="https://github.com/ashwinpatel7/WorkSpaceHub" // Replace with actual link
+              ghLink="https://github.com/Ashwinpatel7/WrokspaceHub" // Replace with actual link
               demoLink="https://landing-page-ashwin.netlify.app/" // Replace with actual demo link
             />
           </Col>
